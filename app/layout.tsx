@@ -11,10 +11,10 @@ const poppins = Poppins({
 })
 
 export const metadata: Metadata = {
-  title: 'Evently',
-  description: 'Evently is a platform for event management.',
+  title: 'SportSync',
+  description: 'SportSync is an online platform that helps people who love sports get together by making it easier to organize, share, and create local sporting events.',
   icons: {
-    icon: '/assets/images/logo.svg'
+    icon: "/assets/images/logo.svg"  // Make sure this path is correct
   }
 }
 
